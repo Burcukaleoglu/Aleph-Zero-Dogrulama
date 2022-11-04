@@ -1,9 +1,9 @@
 # Aleph-Zero-Dogrulama
 Aleph-Zero-Dogrulama
 https://twitter.com/uguryukselx10/status/1555790824088240128
-```
+
 Kurulum aşamasını Uğur paylaşmış zaten oraya girmiyorum  
-```
+
 https://validators.alephzero.org/   yaptığımız başvurunun kabul edilmesi için 3 tane şart var. 
 
 
